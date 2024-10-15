@@ -1,0 +1,1 @@
+<h1>the redirect is working properly! yay</h1>
